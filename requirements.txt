@@ -1,0 +1,12 @@
+# General Data Science and Image Libraries
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python
+
+# Deep Learning Framework
+torch
+torchvision
+Pillow
+
