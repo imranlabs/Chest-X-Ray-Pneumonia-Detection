@@ -89,8 +89,7 @@ This section focused on deep feature learning for final performance:
 ## Repository Structure
 ```
 ├── Chest_X_Ray.ipynb     # Complete workflow notebook
-├── assets/               # plots, images
-├── models/               # Saved PyTorch models
+├── assets/               # plots, images             
 ├── README.md             # Project documentation
 └── requirements.txt      # Python dependencies
 ```
