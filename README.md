@@ -4,13 +4,14 @@
 This project applies **machine learning** and **deep learning** techniques to the [Kaggle Chest X-Ray Images (Pneumonia) Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia).
 The objective is to classify chest X-ray images as **Normal** or **Pneumonia**, demonstrating both classical and modern modeling workflows — from feature extraction with **PCA + SVM** to **CNNs** and **transfer learning** using **ResNet-18**.
 
+<p>
 ![Python](https://img.shields.io/badge/Python-3.7%2B-green) <!-- Open in Colab for your main notebook -->
   <a href="https://colab.research.google.com/github/imranlabs/Chest-X-Ray-Pneumonia-Detection/blob/main/Chest_X_Ray.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
   </a>
 </p>
----
 
+---
 ## Tech Stack
 - **Python**, **NumPy**, **Pandas**
 - **Scikit-learn**, **PyTorch**
