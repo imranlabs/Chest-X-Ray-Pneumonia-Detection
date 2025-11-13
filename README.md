@@ -6,7 +6,6 @@ The objective is to classify chest X-ray images as **Normal** or **Pneumonia**, 
 
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-green) <!-- Open in Colab for your main notebook -->
-<p>
   <a href="https://colab.research.google.com/github/imranlabs/Chest-X-Ray-Pneumonia-Detection/blob/main/Chest_X_Ray.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
   </a>
