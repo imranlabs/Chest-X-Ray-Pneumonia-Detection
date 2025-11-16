@@ -52,7 +52,7 @@ ChestXRay_Pneumonia_Classification/
 │
 ├── notebooks/
 │   └── Chest_X_Ray_Classical_ML_Deep_Learning_Binary.ipynb   # PCA->SVM, Deep learning Binary class
-|   └── Chest_X_Ray_Advanced_Deep_Learning_Multiclass.ipynb # Deep learning multiclass  
+│  └── Chest_X_Ray_Advanced_Deep_Learning_Multiclass.ipynb # Deep learning multiclass  
 │
 ├── assets/
 │   ├── gradcam_normal.png
